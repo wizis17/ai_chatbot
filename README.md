@@ -7,10 +7,8 @@ A conversational AI chatbot built with **Python**, **Gradio**, using **Gemini AP
 
 ## 🚀 Live Demo
 
-[![Open in Spaces](https://huggingface.co/datasets/huggingface/badges/raw/main/open-in-spaces-lg.svg)](https://huggingface.co/spaces/gonzalez16/ai_chatbot)
+[![Open in Spaces](demo.png)](https://huggingface.co/spaces/gonzalez16/ai_chatbot)
 
-![AI Chatbot Screenshot](demo.png)
----
 
 ## Features
 
@@ -60,4 +58,5 @@ This Space uses:
 
 
 *Built with ❤️ using Python, Gradio, and Gemini
+
 
