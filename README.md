@@ -1,17 +1,7 @@
----
-title: AI Chatbot
-emoji: 🤖
-colorFrom: indigo
-colorTo: blue
-sdk: gradio
-sdk_version: 5.44.1
-app_file: app.py
-pinned: false
----
 
 # Ai Chatbot 😎
 
-A conversational AI chatbot built with **Python**, **Gradio**, and the **Gemini API**.
+A conversational AI chatbot built with **Python**, **Gradio**, using **Gemini API**.
 
 ---
 
@@ -53,15 +43,6 @@ This Space uses:
 
 ---
 
-## Example Prompts
-
-- `Hello!`
-- `What is generative AI?`
-- `Explain the theory of relativity in simple terms.`
-- `Show me a picture of a cat.`
-
----
-
 ## Reference
 
 - [Gradio Documentation](https://www.gradio.app/docs/)
@@ -69,5 +50,6 @@ This Space uses:
 - [Hugging Face Spaces Config Reference](https://huggingface.co/docs/hub/spaces-config-reference)
 
 ---
+
 
 *Built with ❤️ using Python, Gradio, and Gemini
